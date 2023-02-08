@@ -1,5 +1,5 @@
 # AI Sweet-Talker:
-## A Montessorian based Artificial Inteligence Prompt Grammar Analyzer.
+## A Montessorian based Artificial Intelligence Prompt Grammar Analyzer.
 ### Author: Edgar Medina.
 
 ## Description
